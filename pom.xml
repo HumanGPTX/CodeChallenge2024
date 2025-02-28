@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>humangpt</groupId>
-    <artifactId>CodeChallengeTemplate</artifactId>
+    <artifactId>CodeChallenge2024</artifactId>
     <version>1.0.0</version>
 
     <properties>

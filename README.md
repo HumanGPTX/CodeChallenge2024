@@ -1,8 +1,8 @@
-# Code Challenge Template
+# Code Challenge 2024
 
-This is a template for Code Challenges.
+This is Code Challenge 2024.
 
-It simply provides input and output utilities.
+Look at [PDF](Code_Challenge_2024_Standard_Edition.pdf) for Challenge Rules.
 
 # How to use
 
